@@ -1,0 +1,25 @@
+{
+  "name": "mx.edu.utxj.ti.awi4.practica3",
+  "version": "1.0.0",
+  "description": "Manejo de Sesión en NodeJS y Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ktmich2095/Practica03_230881.git"
+  },
+  "author": "Michelle Castro Otero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ktmich2095/Practica03_230881/issues"
+  },
+  "homepage": "https://github.com/Ktmich2095/Practica03_230881#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "moment-timezone": "^0.5.46"
+  }
+}
